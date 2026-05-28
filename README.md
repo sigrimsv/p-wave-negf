@@ -5,7 +5,7 @@ Author: Sigri M. Sveen
 ## Description
 
 This code implements a tight-binding non-equilibrium Green's
-function (NEGF) framework for constructing p-wave magnetic lattice
+function (NEGF) framework for constructing p-wave magnet lattice
 Hamiltonians and calculating lesser Green's functions.
 
 The system consists of a central square-lattice region coupled to
@@ -25,7 +25,7 @@ and visualized, for instance, through quiver plots.
 
 ## Main capabilities
 
-* Construction of p-wave magnetic lattice Hamiltonians
+* Construction of p-wave magnet lattice Hamiltonians
 * Lead self-energy calculations
 * Calculation of the system's lesser Green's functions
 
