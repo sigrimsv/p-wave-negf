@@ -19,9 +19,9 @@ and visualized, for instance, through quiver plots.
 
 ## Implemented Hamiltonian models
 
-1. Itinerant non-collinear p-wave model
-2. Localized helimagnetic non-collinear p-wave model
-3. Collinear p-wave model
+* Itinerant non-collinear p-wave model
+* Localized helimagnetic non-collinear p-wave model
+* Collinear p-wave model
 
 ## Main capabilities
 
