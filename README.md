@@ -1,6 +1,6 @@
-# p-wave magnetic lattice Hamiltonians and lesser Green's functions
+# p-wave magnet lattice Hamiltonians and lesser Green's functions
 
-Author: -----
+Author: Sigri M. Sveen
 
 ## Description
 
